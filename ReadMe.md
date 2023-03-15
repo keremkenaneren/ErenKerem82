@@ -20,3 +20,5 @@
 - [Twitter](https://twitter.com/KeremKenan82 "Twitter")
 - [Patika.dev](https://app.patika.dev/erenkerem "Patika.dev")
 - erenkerem8262@gmail.com
+
+------------

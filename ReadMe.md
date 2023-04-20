@@ -18,7 +18,7 @@
 ### For Contact :
 - [LinkedIn](https://www.linkedin.com/in/kerem-kenan-eren-169b49253/ "LinkedIn")
 - [Twitter](https://twitter.com/KeremKenan82 "Twitter")
-- [Patika.dev]([https://app.patika.dev/erenkerem](https://academy.patika.dev/profile) "Patika.dev")
+- [Patika.dev](https://academy.patika.dev/profile "Patika.dev")
 - erenkerem8262@gmail.com
 
 ------------

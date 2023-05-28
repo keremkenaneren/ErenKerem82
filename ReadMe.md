@@ -10,7 +10,7 @@ I have been interested in software for 1 year<br><br>I started the software with
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=keremkenaneren&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=keremkenaneren&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=keremkenaneren&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+username=keremkenaneren&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=keremkenaneren&theme=onedark&no-frame=false&no-bg=true&margin-w=4)

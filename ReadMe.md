@@ -1,8 +1,12 @@
-<h1 align="center">Hi 👋, I'm Kerem Kenan</h1>
+<h1 align="center">Hi 👋, I'm Kerem Kenan Eren</h1>
 <ul>
   <li> I started the software with Python and continued by learning html, css ,javascript and java. I currently know Python and Java at an intermediate or advanced level. I think I have improved myself in html and css. I learned Bootstrap. At the same time, we are currently learning SpringBoot and Microservice with a Java developer team. I'm on my way to becoming a Fullstack web developer. But my main goal is to learn ML and AI. I'm more young.I believe that if I don't die, I will be very successful in both..:))</li>
 </ul>
+<br/>
 - 📫 How to reach me **erenkerem8262@gmail.com**
+<br/>
+<br/>
+<br/>
 
 <div> <a href="https://twitter.com/https://twitter.com/KeremKenan82" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/kerem-kenan-eren-169b49253/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -36,8 +40,4 @@
 <div align="center">
 <a href="https://github.com/keremkenaneren">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=keremkenaneren&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=keremkenaneren&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=keremkenaneren&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=keremkenaneren&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keremkenaneren&theme=2077" height="180em" />
 </div>

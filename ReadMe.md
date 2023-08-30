@@ -6,9 +6,7 @@
 </ul>
 <br/>
 - 📫 How to reach me **erenkerem8262@gmail.com**
-<br/>
-<br/>
-<br/>
+
 
 <div> <br/>
 <a href = "mailto:erenkerem8262@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

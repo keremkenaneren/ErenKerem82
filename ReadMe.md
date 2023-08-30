@@ -1,7 +1,7 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Kerem Kenan</h1>
-<h3 align="center">I have been interested in software for 1 year I started the software with Python and continued by learning html, css ,javascript and java. I currently know Python and Java at an intermediate or advanced level. I think I have improved myself in html and css. I learned Bootstrap. At the same time, we are currently learning SpringBoot and Microservice with a Java developer team. I'm on my way to becoming a Fullstack web developer. But my main goal is to learn ML and AI. I'm more young.I believe that if I don't die, I will be very successful in both..:))</h3>
-
+<ul>
+  <li> I started the software with Python and continued by learning html, css ,javascript and java. I currently know Python and Java at an intermediate or advanced level. I think I have improved myself in html and css. I learned Bootstrap. At the same time, we are currently learning SpringBoot and Microservice with a Java developer team. I'm on my way to becoming a Fullstack web developer. But my main goal is to learn ML and AI. I'm more young.I believe that if I don't die, I will be very successful in both..:))</li>
+</ul>
 - 📫 How to reach me **erenkerem8262@gmail.com**
 
 <div> <a href="https://twitter.com/https://twitter.com/KeremKenan82" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>

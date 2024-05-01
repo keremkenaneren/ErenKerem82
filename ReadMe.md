@@ -8,6 +8,7 @@
 <ul>
     <li>HTML & CSS</li>
     <li>Javascript</li>
+    <li>Typescript</li>
     <li>ReactJS</li>
     <li>Java</li>
     <li>Spring Boot</li>

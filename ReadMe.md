@@ -1,7 +1,6 @@
 <h1>Hey 👋 I'm Kerem Kenan Eren</h1>
 <li>I'm someone interested in software development and design. 
-    I have experience in both front-end and back-end technologies, and I also work freelance on various projects. A
-    dditionally, I use GIT effectively and design with Figma.
+    I have experience in both front-end and back-end technologies, and I also work freelance on various projects. Additionally, I use GIT effectively and design with Figma.
 </li>
 
 <h2>Techs</h2>

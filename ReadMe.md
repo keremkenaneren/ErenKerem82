@@ -9,6 +9,8 @@
     <li>Javascript</li>
     <li>Typescript</li>
     <li>ReactJS</li>
+    <li>SvelteJS</li>
+    <li>NextJS</li>
     <li>Java</li>
     <li>Spring Boot</li>
     <li>Python</li>
